@@ -42,3 +42,7 @@ body
 {
     padding: 1em;
 }
+
+#cabecera img{
+    border: 1px solid gray;
+}
